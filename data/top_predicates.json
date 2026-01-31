@@ -1,0 +1,914 @@
+{
+  "DA": [
+    {
+      "predicate": "说",
+      "count": 63257,
+      "percentage": 50.51063999680601
+    },
+    {
+      "predicate": "表示",
+      "count": 5535,
+      "percentage": 4.419690980955803
+    },
+    {
+      "predicate": "说道",
+      "count": 3539,
+      "percentage": 2.825887331816185
+    },
+    {
+      "predicate": "笑",
+      "count": 3323,
+      "percentage": 2.65341158621791
+    },
+    {
+      "predicate": "讲",
+      "count": 3272,
+      "percentage": 2.612688146284984
+    },
+    {
+      "predicate": "做",
+      "count": 2616,
+      "percentage": 2.088872918912445
+    },
+    {
+      "predicate": "道",
+      "count": 1857,
+      "percentage": 1.482812312851838
+    },
+    {
+      "predicate": "作",
+      "count": 1043,
+      "percentage": 0.8328342715694494
+    },
+    {
+      "predicate": "微笑",
+      "count": 993,
+      "percentage": 0.7929093304587376
+    },
+    {
+      "predicate": "点",
+      "count": 855,
+      "percentage": 0.6827164929931728
+    },
+    {
+      "predicate": "解释",
+      "count": 804,
+      "percentage": 0.6419930530602467
+    },
+    {
+      "predicate": "露出",
+      "count": 650,
+      "percentage": 0.5190242344392542
+    },
+    {
+      "predicate": "有",
+      "count": 608,
+      "percentage": 0.4854872839062562
+    },
+    {
+      "predicate": "喊",
+      "count": 600,
+      "percentage": 0.4790992933285424
+    },
+    {
+      "predicate": "摇",
+      "count": 578,
+      "percentage": 0.4615323192398291
+    },
+    {
+      "predicate": "发表",
+      "count": 566,
+      "percentage": 0.4519503333732582
+    },
+    {
+      "predicate": "发出",
+      "count": 565,
+      "percentage": 0.4511518345510441
+    },
+    {
+      "predicate": "做出",
+      "count": 547,
+      "percentage": 0.4367788557511878
+    },
+    {
+      "predicate": "眨",
+      "count": 534,
+      "percentage": 0.4263983710624026
+    },
+    {
+      "predicate": "看",
+      "count": 534,
+      "percentage": 0.4263983710624026
+    },
+    {
+      "predicate": "作出",
+      "count": 523,
+      "percentage": 0.4176148840180461
+    },
+    {
+      "predicate": "挥",
+      "count": 514,
+      "percentage": 0.410428394618118
+    },
+    {
+      "predicate": "吼",
+      "count": 498,
+      "percentage": 0.3976524134626901
+    },
+    {
+      "predicate": "谈",
+      "count": 472,
+      "percentage": 0.37689144408512
+    },
+    {
+      "predicate": "投",
+      "count": 458,
+      "percentage": 0.3657124605741207
+    },
+    {
+      "predicate": "交代",
+      "count": 445,
+      "percentage": 0.3553319758853355
+    },
+    {
+      "predicate": "提起",
+      "count": 402,
+      "percentage": 0.3209965265301233
+    },
+    {
+      "predicate": "说明",
+      "count": 389,
+      "percentage": 0.3106160418413383
+    },
+    {
+      "predicate": "给予",
+      "count": 357,
+      "percentage": 0.2850640795304827
+    },
+    {
+      "predicate": "伸",
+      "count": 350,
+      "percentage": 0.279474587774983
+    }
+  ],
+  "SI": [
+    {
+      "predicate": "进行",
+      "count": 33799,
+      "percentage": 37.44917066468705
+    },
+    {
+      "predicate": "实行",
+      "count": 3481,
+      "percentage": 3.856935503528969
+    },
+    {
+      "predicate": "负责",
+      "count": 3242,
+      "percentage": 3.592124361517068
+    },
+    {
+      "predicate": "采取",
+      "count": 2514,
+      "percentage": 2.785502974970361
+    },
+    {
+      "predicate": "作",
+      "count": 2116,
+      "percentage": 2.344520403753892
+    },
+    {
+      "predicate": "实施",
+      "count": 1662,
+      "percentage": 1.841490033572291
+    },
+    {
+      "predicate": "发动",
+      "count": 1448,
+      "percentage": 1.604378801812682
+    },
+    {
+      "predicate": "作出",
+      "count": 1404,
+      "percentage": 1.55562695976865
+    },
+    {
+      "predicate": "做",
+      "count": 1307,
+      "percentage": 1.448151307989762
+    },
+    {
+      "predicate": "给予",
+      "count": 1134,
+      "percentage": 1.25646792904391
+    },
+    {
+      "predicate": "予以",
+      "count": 816,
+      "percentage": 0.9041250706347712
+    },
+    {
+      "predicate": "开放",
+      "count": 760,
+      "percentage": 0.8420772716696399
+    },
+    {
+      "predicate": "展开",
+      "count": 732,
+      "percentage": 0.8110533721870742
+    },
+    {
+      "predicate": "有",
+      "count": 722,
+      "percentage": 0.7999734080861578
+    },
+    {
+      "predicate": "负",
+      "count": 709,
+      "percentage": 0.7855694547549665
+    },
+    {
+      "predicate": "下",
+      "count": 704,
+      "percentage": 0.7800294727045084
+    },
+    {
+      "predicate": "要求",
+      "count": 684,
+      "percentage": 0.7578695445026759
+    },
+    {
+      "predicate": "下手",
+      "count": 682,
+      "percentage": 0.7556535516824925
+    },
+    {
+      "predicate": "保持",
+      "count": 649,
+      "percentage": 0.7190896701494688
+    },
+    {
+      "predicate": "动武",
+      "count": 643,
+      "percentage": 0.7124416916889189
+    },
+    {
+      "predicate": "加以",
+      "count": 631,
+      "percentage": 0.6991457347678194
+    },
+    {
+      "predicate": "施加",
+      "count": 598,
+      "percentage": 0.6625818532347955
+    },
+    {
+      "predicate": "加强",
+      "count": 505,
+      "percentage": 0.5595381870962738
+    },
+    {
+      "predicate": "提供",
+      "count": 474,
+      "percentage": 0.5251902983834332
+    },
+    {
+      "predicate": "使用",
+      "count": 432,
+      "percentage": 0.4786544491595848
+    },
+    {
+      "predicate": "照顾",
+      "count": 429,
+      "percentage": 0.4753304599293098
+    },
+    {
+      "predicate": "开展",
+      "count": 420,
+      "percentage": 0.4653584922384851
+    },
+    {
+      "predicate": "做出",
+      "count": 383,
+      "percentage": 0.4243626250650948
+    },
+    {
+      "predicate": "处理",
+      "count": 313,
+      "percentage": 0.3468028763586806
+    },
+    {
+      "predicate": "施",
+      "count": 311,
+      "percentage": 0.3445868835384973
+    }
+  ],
+  "MS": [
+    {
+      "predicate": "有",
+      "count": 23073,
+      "percentage": 24.27357081238033
+    },
+    {
+      "predicate": "感到",
+      "count": 6689,
+      "percentage": 7.037052622719717
+    },
+    {
+      "predicate": "产生",
+      "count": 3660,
+      "percentage": 3.850442906137564
+    },
+    {
+      "predicate": "充满",
+      "count": 2544,
+      "percentage": 2.67637342983988
+    },
+    {
+      "predicate": "了解",
+      "count": 1829,
+      "percentage": 1.92416941948787
+    },
+    {
+      "predicate": "满意",
+      "count": 1602,
+      "percentage": 1.685357796620868
+    },
+    {
+      "predicate": "没",
+      "count": 1510,
+      "percentage": 1.588570707176973
+    },
+    {
+      "predicate": "有着",
+      "count": 1244,
+      "percentage": 1.308729774654407
+    },
+    {
+      "predicate": "熟悉",
+      "count": 1180,
+      "percentage": 1.241399625476045
+    },
+    {
+      "predicate": "重视",
+      "count": 1130,
+      "percentage": 1.18879794643045
+    },
+    {
+      "predicate": "感",
+      "count": 1120,
+      "percentage": 1.178277610621331
+    },
+    {
+      "predicate": "关心",
+      "count": 1040,
+      "percentage": 1.094114924148379
+    },
+    {
+      "predicate": "有所",
+      "count": 1026,
+      "percentage": 1.079386454015612
+    },
+    {
+      "predicate": "存",
+      "count": 1026,
+      "percentage": 1.079386454015612
+    },
+    {
+      "predicate": "毫无",
+      "count": 1024,
+      "percentage": 1.077282386853788
+    },
+    {
+      "predicate": "抱",
+      "count": 971,
+      "percentage": 1.021524607065458
+    },
+    {
+      "predicate": "怀有",
+      "count": 971,
+      "percentage": 1.021524607065458
+    },
+    {
+      "predicate": "是",
+      "count": 907,
+      "percentage": 0.9541944578870958
+    },
+    {
+      "predicate": "失去",
+      "count": 906,
+      "percentage": 0.9531424243061838
+    },
+    {
+      "predicate": "抱有",
+      "count": 855,
+      "percentage": 0.8994887116796768
+    },
+    {
+      "predicate": "持",
+      "count": 847,
+      "percentage": 0.8910724430323816
+    },
+    {
+      "predicate": "无",
+      "count": 750,
+      "percentage": 0.7890251856839271
+    },
+    {
+      "predicate": "缺乏",
+      "count": 742,
+      "percentage": 0.7806089170366318
+    },
+    {
+      "predicate": "信任",
+      "count": 643,
+      "percentage": 0.6764575925263534
+    },
+    {
+      "predicate": "发生",
+      "count": 624,
+      "percentage": 0.6564689544890273
+    },
+    {
+      "predicate": "生",
+      "count": 503,
+      "percentage": 0.529172891198687
+    },
+    {
+      "predicate": "采取",
+      "count": 502,
+      "percentage": 0.5281208576177752
+    },
+    {
+      "predicate": "寄予",
+      "count": 500,
+      "percentage": 0.5260167904559514
+    },
+    {
+      "predicate": "认识",
+      "count": 499,
+      "percentage": 0.5249647568750394
+    },
+    {
+      "predicate": "知道",
+      "count": 492,
+      "percentage": 0.5176005218086561
+    }
+  ],
+  "ABT": [
+    {
+      "predicate": "提出",
+      "count": 4620,
+      "percentage": 13.44704135983933
+    },
+    {
+      "predicate": "表示",
+      "count": 3588,
+      "percentage": 10.44328666647263
+    },
+    {
+      "predicate": "有",
+      "count": 2850,
+      "percentage": 8.295252786913874
+    },
+    {
+      "predicate": "作",
+      "count": 1867,
+      "percentage": 5.434118229181826
+    },
+    {
+      "predicate": "作出",
+      "count": 1322,
+      "percentage": 3.847833047122857
+    },
+    {
+      "predicate": "是",
+      "count": 899,
+      "percentage": 2.616642896644061
+    },
+    {
+      "predicate": "说",
+      "count": 754,
+      "percentage": 2.194603719765987
+    },
+    {
+      "predicate": "做",
+      "count": 615,
+      "percentage": 1.790028232965626
+    },
+    {
+      "predicate": "给予",
+      "count": 563,
+      "percentage": 1.638676252292109
+    },
+    {
+      "predicate": "做出",
+      "count": 452,
+      "percentage": 1.315597985854411
+    },
+    {
+      "predicate": "承担",
+      "count": 345,
+      "percentage": 1.004162179468522
+    },
+    {
+      "predicate": "发表",
+      "count": 310,
+      "percentage": 0.9022906540151934
+    },
+    {
+      "predicate": "看",
+      "count": 304,
+      "percentage": 0.8848269639374801
+    },
+    {
+      "predicate": "评价",
+      "count": 300,
+      "percentage": 0.8731845038856709
+    },
+    {
+      "predicate": "研究",
+      "count": 273,
+      "percentage": 0.7945978985359605
+    },
+    {
+      "predicate": "有所",
+      "count": 272,
+      "percentage": 0.7916872835230084
+    },
+    {
+      "predicate": "予以",
+      "count": 210,
+      "percentage": 0.6112291527199698
+    },
+    {
+      "predicate": "尽",
+      "count": 209,
+      "percentage": 0.6083185377070175
+    },
+    {
+      "predicate": "分析",
+      "count": 162,
+      "percentage": 0.4715196320982624
+    },
+    {
+      "predicate": "提",
+      "count": 161,
+      "percentage": 0.4686090170853101
+    },
+    {
+      "predicate": "看得",
+      "count": 157,
+      "percentage": 0.4569665570335011
+    },
+    {
+      "predicate": "解释",
+      "count": 153,
+      "percentage": 0.4453240969816922
+    },
+    {
+      "predicate": "调查",
+      "count": 148,
+      "percentage": 0.4307710219169311
+    },
+    {
+      "predicate": "有着",
+      "count": 132,
+      "percentage": 0.3842011817096952
+    },
+    {
+      "predicate": "服",
+      "count": 123,
+      "percentage": 0.3580056465931251
+    },
+    {
+      "predicate": "无",
+      "count": 122,
+      "percentage": 0.3550950315801729
+    },
+    {
+      "predicate": "表现",
+      "count": 119,
+      "percentage": 0.3463631865413161
+    },
+    {
+      "predicate": "不予",
+      "count": 117,
+      "percentage": 0.3405419565154117
+    },
+    {
+      "predicate": "观察",
+      "count": 114,
+      "percentage": 0.331810111476555
+    },
+    {
+      "predicate": "承认",
+      "count": 113,
+      "percentage": 0.3288994964636028
+    }
+  ],
+  "EVAL": [
+    {
+      "predicate": "有",
+      "count": 11606,
+      "percentage": 28.75476933749567
+    },
+    {
+      "predicate": "是",
+      "count": 4343,
+      "percentage": 10.76012090580249
+    },
+    {
+      "predicate": "产生",
+      "count": 3934,
+      "percentage": 9.746791536593825
+    },
+    {
+      "predicate": "造成",
+      "count": 3422,
+      "percentage": 8.47827164164313
+    },
+    {
+      "predicate": "起",
+      "count": 2383,
+      "percentage": 5.904068182944354
+    },
+    {
+      "predicate": "具有",
+      "count": 1502,
+      "percentage": 3.721322035578019
+    },
+    {
+      "predicate": "构成",
+      "count": 1340,
+      "percentage": 3.319954412566275
+    },
+    {
+      "predicate": "形成",
+      "count": 863,
+      "percentage": 2.138149744809474
+    },
+    {
+      "predicate": "带来",
+      "count": 820,
+      "percentage": 2.031613894256974
+    },
+    {
+      "predicate": "影响",
+      "count": 733,
+      "percentage": 1.816064615232149
+    },
+    {
+      "predicate": "有所",
+      "count": 614,
+      "percentage": 1.521232842772905
+    },
+    {
+      "predicate": "作出",
+      "count": 559,
+      "percentage": 1.384966057182498
+    },
+    {
+      "predicate": "有着",
+      "count": 544,
+      "percentage": 1.347802388385115
+    },
+    {
+      "predicate": "毫无",
+      "count": 509,
+      "percentage": 1.26108716119122
+    },
+    {
+      "predicate": "无",
+      "count": 451,
+      "percentage": 1.117387641841336
+    },
+    {
+      "predicate": "重要",
+      "count": 412,
+      "percentage": 1.020762102968138
+    },
+    {
+      "predicate": "有利",
+      "count": 383,
+      "percentage": 0.9489123432931965
+    },
+    {
+      "predicate": "不利",
+      "count": 363,
+      "percentage": 0.899360784896685
+    },
+    {
+      "predicate": "存在",
+      "count": 314,
+      "percentage": 0.7779594668252316
+    },
+    {
+      "predicate": "没",
+      "count": 305,
+      "percentage": 0.7556612655468015
+    },
+    {
+      "predicate": "发生",
+      "count": 249,
+      "percentage": 0.616916902036569
+    },
+    {
+      "predicate": "发挥",
+      "count": 223,
+      "percentage": 0.552499876121104
+    },
+    {
+      "predicate": "做出",
+      "count": 212,
+      "percentage": 0.5252465190030227
+    },
+    {
+      "predicate": "意味",
+      "count": 204,
+      "percentage": 0.505425895644418
+    },
+    {
+      "predicate": "具",
+      "count": 143,
+      "percentage": 0.3542936425350577
+    },
+    {
+      "predicate": "无害",
+      "count": 128,
+      "percentage": 0.317129973737674
+    },
+    {
+      "predicate": "公平",
+      "count": 115,
+      "percentage": 0.2849214607799416
+    },
+    {
+      "predicate": "危害",
+      "count": 101,
+      "percentage": 0.2502353699023834
+    },
+    {
+      "predicate": "有益",
+      "count": 95,
+      "percentage": 0.2353699023834299
+    },
+    {
+      "predicate": "没用",
+      "count": 90,
+      "percentage": 0.2229820127843021
+    }
+  ],
+  "DISP": [
+    {
+      "predicate": "是",
+      "count": 1214,
+      "percentage": 13.34946118319771
+    },
+    {
+      "predicate": "好",
+      "count": 610,
+      "percentage": 6.707719375412361
+    },
+    {
+      "predicate": "有",
+      "count": 517,
+      "percentage": 5.685067077193754
+    },
+    {
+      "predicate": "像",
+      "count": 225,
+      "percentage": 2.474158786012755
+    },
+    {
+      "predicate": "言听计从",
+      "count": 212,
+      "percentage": 2.331207389487574
+    },
+    {
+      "predicate": "客气",
+      "count": 195,
+      "percentage": 2.144270947877722
+    },
+    {
+      "predicate": "体贴",
+      "count": 177,
+      "percentage": 1.946338244996701
+    },
+    {
+      "predicate": "冷淡",
+      "count": 139,
+      "percentage": 1.528480316692325
+    },
+    {
+      "predicate": "表现",
+      "count": 131,
+      "percentage": 1.440510226522982
+    },
+    {
+      "predicate": "认真",
+      "count": 119,
+      "percentage": 1.308555091268969
+    },
+    {
+      "predicate": "一样",
+      "count": 91,
+      "percentage": 1.00065977567627
+    },
+    {
+      "predicate": "温柔",
+      "count": 90,
+      "percentage": 0.9896635144051023
+    },
+    {
+      "predicate": "热情",
+      "count": 82,
+      "percentage": 0.9016934242357598
+    },
+    {
+      "predicate": "孝顺",
+      "count": 75,
+      "percentage": 0.8247195953375853
+    },
+    {
+      "predicate": "恭敬",
+      "count": 67,
+      "percentage": 0.7367495051682428
+    },
+    {
+      "predicate": "低声下气",
+      "count": 65,
+      "percentage": 0.7147569826259071
+    },
+    {
+      "predicate": "如",
+      "count": 63,
+      "percentage": 0.6927644600835715
+    },
+    {
+      "predicate": "亲近",
+      "count": 58,
+      "percentage": 0.6377831537277325
+    },
+    {
+      "predicate": "显得",
+      "count": 55,
+      "percentage": 0.6047943699142292
+    },
+    {
+      "predicate": "服从",
+      "count": 53,
+      "percentage": 0.5828018473718936
+    },
+    {
+      "predicate": "真心",
+      "count": 51,
+      "percentage": 0.5608093248295579
+    },
+    {
+      "predicate": "亲",
+      "count": 50,
+      "percentage": 0.5498130635583902
+    },
+    {
+      "predicate": "亲热",
+      "count": 47,
+      "percentage": 0.5168242797448868
+    },
+    {
+      "predicate": "不错",
+      "count": 44,
+      "percentage": 0.4838354959313834
+    },
+    {
+      "predicate": "疏远",
+      "count": 43,
+      "percentage": 0.4728392346602155
+    },
+    {
+      "predicate": "亲切",
+      "count": 42,
+      "percentage": 0.4618429733890477
+    },
+    {
+      "predicate": "仁慈",
+      "count": 41,
+      "percentage": 0.4508467121178799
+    },
+    {
+      "predicate": "这样",
+      "count": 41,
+      "percentage": 0.4508467121178799
+    },
+    {
+      "predicate": "顺从",
+      "count": 40,
+      "percentage": 0.4398504508467121
+    },
+    {
+      "predicate": "严厉",
+      "count": 40,
+      "percentage": 0.4398504508467121
+    }
+  ]
+}
