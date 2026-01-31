@@ -1,0 +1,68 @@
+{
+    "DA": {
+        "full_name": "Directed-Action",
+        "chinese_name": "指向动作",
+        "count": 125235,
+        "percent": 31.76,
+        "unique_predicates": 2379,
+        "top_predicate": "说",
+        "top_predicate_count": 63257,
+        "top_predicate_percent": 50.51
+    },
+    "SI": {
+        "full_name": "Scoped-Intervention",
+        "chinese_name": "范围干预",
+        "count": 90253,
+        "percent": 22.89,
+        "unique_predicates": 3142,
+        "top_predicate": "进行",
+        "top_predicate_count": 33799,
+        "top_predicate_percent": 37.45
+    },
+    "MS": {
+        "full_name": "Mental-State",
+        "chinese_name": "心理状态",
+        "count": 95054,
+        "percent": 24.1,
+        "unique_predicates": 2093,
+        "top_predicate": "有",
+        "top_predicate_count": 23073,
+        "top_predicate_percent": 24.27
+    },
+    "ABT": {
+        "full_name": "Aboutness",
+        "chinese_name": "论题关涉",
+        "count": 34357,
+        "percent": 8.71,
+        "unique_predicates": 2778,
+        "top_predicate": "提出",
+        "top_predicate_count": 4620,
+        "top_predicate_percent": 13.45
+    },
+    "EVAL": {
+        "full_name": "Evaluation",
+        "chinese_name": "评价效果",
+        "count": 40362,
+        "percent": 10.23,
+        "unique_predicates": 715,
+        "top_predicate": "有",
+        "top_predicate_count": 11606,
+        "top_predicate_percent": 28.75
+    },
+    "DISP": {
+        "full_name": "Disposition",
+        "chinese_name": "态度行为",
+        "count": 9094,
+        "percent": 2.31,
+        "unique_predicates": 1313,
+        "top_predicate": "是",
+        "top_predicate_count": 1214,
+        "top_predicate_percent": 13.35
+    },
+    "metadata": {
+        "corpus": "BCC (Beijing Chinese Corpus)",
+        "total_instances": 394355,
+        "annotation_version": "v71",
+        "last_updated": "2026-01-27"
+    }
+}
